@@ -1,4 +1,28 @@
 - commits:
+    - subject: Update webpack deps
+      hash: 773f66c247a98156276d51342f551a2e5ece494f
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Pagan Gazzard
+    - subject: Update ts-loader to 6.x
+      hash: aae53920ebb78566a82c6927aa4314a501333f11
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Pagan Gazzard
+    - subject: Update fork-ts-checker-webpack-plugin to 4.x
+      hash: 6fdbc6ad739a5a4b6cf264f376ab327f672441d3
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Pagan Gazzard
+  version: 10.6.32
+  date: 2020-01-17T17:55:22.916Z
+- commits:
     - subject: Update docker used for CI builds
       hash: 9dc9e0704b69f3e8980c8747cb341004b9be8399
       body: ''
