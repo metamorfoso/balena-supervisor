@@ -1,4 +1,19 @@
 - commits:
+    - subject: Make balena-sync optional
+      hash: 65e94ca02a07e4fa27ec06d735750d80a51e5419
+      body: |
+        Drivelist won't build with node12, and it won't build at all with osx.
+        We make balena-sync optional so that everything but sync.js will work
+        fine on these platforms.
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Cameron Diver <cameron@balena.io>
+        signed-off-by: Cameron Diver <cameron@balena.io>
+      author: Cameron Diver
+  version: 10.6.35
+  date: 2020-02-07T09:54:39.227Z
+- commits:
     - subject: 'bug: Delay sending logs until the device is provisioned'
       hash: fe5fd2b7ef5f40d688ee85c874934487d0c2d702
       body: ''
