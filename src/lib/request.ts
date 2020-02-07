@@ -17,7 +17,7 @@ const DEFAULT_REQUEST_TIMEOUT = 30000; // ms
 const DEFAULT_REQUEST_RETRY_INTERVAL = 10000; // ms
 const DEFAULT_REQUEST_RETRY_COUNT = 30;
 
-type PromisifiedRequest = typeof requestLib & {
+export type PromisifiedRequest = typeof requestLib & {
 	postAsync: (
 		uri: string | requestLib.CoreOptions,
 		options?: requestLib.CoreOptions | undefined,
