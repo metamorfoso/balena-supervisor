@@ -1,4 +1,14 @@
 - commits:
+    - subject: Update to balena-register-device 6.0.1
+      hash: 6cf4af5fa7734e3a1bbcddfe6645a97b57bc505a
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Pagan Gazzard
+  version: 10.6.35
+  date: 2020-02-07T15:14:43.421Z
+- commits:
     - subject: 'bug: Delay sending logs until the device is provisioned'
       hash: fe5fd2b7ef5f40d688ee85c874934487d0c2d702
       body: ''
