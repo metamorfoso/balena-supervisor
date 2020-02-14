@@ -1,4 +1,16 @@
 - commits:
+    - subject: 'config: Support loading SSDT via ConfigFS'
+      hash: 42fce90178cde5dd1f1896a2af48bdf6b925c0f8
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Rich Bayliss <rich@balena.io>
+        signed-off-by: Rich Bayliss <rich@balena.io>
+      author: Rich Bayliss
+  version: 10.8.1
+  date: 2020-02-14T15:31:32.371Z
+- commits:
     - subject: Add procfs label
       hash: 89a9d85e8743926cecbc82e8c53d37bca6f845b9
       body: ''
