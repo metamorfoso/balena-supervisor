@@ -1,4 +1,18 @@
 - commits:
+    - subject: Respect an initialDeviceName field in the config.json
+      hash: dafbe5bb69d36061acd5672a62b2ef9c371cab1e
+      body: ''
+      footer:
+        Closes: '#909'
+        closes: '#909'
+        Change-type: minor
+        change-type: minor
+        Signed-off-by: Cameron Diver <cameron@balena.io>
+        signed-off-by: Cameron Diver <cameron@balena.io>
+      author: Cameron Diver
+  version: 10.9.0
+  date: 2020-02-21T06:51:23.247Z
+- commits:
     - subject: Add procfs label
       hash: 89a9d85e8743926cecbc82e8c53d37bca6f845b9
       body: ''
