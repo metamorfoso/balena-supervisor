@@ -1,4 +1,34 @@
 - commits:
+    - subject: Convert device-state module to typescript
+      hash: da6c988c12c636eb3c88e6fbd5f8e932e22f38ee
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Cameron Diver <cameron@balena.io>
+        signed-off-by: Cameron Diver <cameron@balena.io>
+      author: Cameron Diver
+    - subject: Improve application-manager typings
+      hash: 55ff672fb01401a92162c5abbc619f33f47c1cd6
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Cameron Diver <cameron@balena.io>
+        signed-off-by: Cameron Diver <cameron@balena.io>
+      author: Cameron Diver
+    - subject: Improve and extend internal typings
+      hash: 432839fb7e6b75065b3e1f2f35a4fa48aaaa9cce
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Cameron Diver <cameron@balena.io>
+        signed-off-by: Cameron Diver <cameron@balena.io>
+      author: Cameron Diver
+  version: 10.8.1
+  date: 2020-02-21T06:53:00.397Z
+- commits:
     - subject: Add procfs label
       hash: 89a9d85e8743926cecbc82e8c53d37bca6f845b9
       body: ''
